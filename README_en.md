@@ -86,6 +86,7 @@
 | Asus X450JB                       | [link](https://github.com/xiaoMGitHub/Asus_X450JB_Hackintosh) |                                                              |                                                  |
 | Asus X550JX                       | [link](https://github.com/gaoliang/Asus-X550JX-Hackintosh)   |                                                              |                                                  |
 | Asus X555LB                       | [link](https://github.com/emre1393/Asus-x555lb-mojave-efi)   |                                                              |                                                  |
+| Asus X705UQ                       | [link](https://github.com/harriedgemusic/ASUS-X705UQ-macOS-10.15.2-Clover)   |                                                              |                                                  |
 | Asus X75VC-TY056D                 | [link](https://github.com/Jesterjke/ASUS-X75VC-Hackintosh)   |                                                              |                                                  |
 | Asus ZenBook series               | [link](https://github.com/hieplpvip/Asus-ZENBOOK-HACKINTOSH) | [link](https://www.tonymacx86.com/threads/guide-Asus-zenbook-using-clover-uefi-hotpatch.257448/) | UX310 - UX330 - UX330<br />UX410 - UX430 - UX430 |
 | Asus ZenBook Flip UX360UAK        | [link](https://github.com/Frizz925/UX360UAK-Hackintosh)      | [link](https://github.com/Frizz925/UX360UAK-Hackintosh/blob/master/README.md) |                                                  |
